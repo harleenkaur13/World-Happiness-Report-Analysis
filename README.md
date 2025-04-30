@@ -27,6 +27,8 @@ The datasets used in this project are from Kaggle. The specific data files used 
 ## Files in the Repository:
 - `world_happiness_analysis.ipynb`: The Jupyter notebook containing the analysis, visualizations, and results of the hypothesis tests.
 - `datasets/`: Folder containing the data files (e.g., `2022.csv`).
+- `README.md`: Markdown file containing project description.
+- `requirements.txt`: Text file containing all the required modules and libraries.
 
 ## Steps to Reproduce:
 1. Clone this repository to your local machine using:
